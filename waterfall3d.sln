@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "waterfall3d", "Assembly-CSharp.csproj", "{FE19E33D-5E0A-F62D-98A8-A422596ED61D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "waterfall3d", "Assembly-CSharp-firstpass.csproj", "{CF978308-E4CD-B30C-F278-3828E337AD28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "waterfall3d", "Assembly-CSharp-Editor-firstpass.csproj", "{3B73ABD5-1D24-8F4A-A42B-E283B7251F31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE19E33D-5E0A-F62D-98A8-A422596ED61D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE19E33D-5E0A-F62D-98A8-A422596ED61D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE19E33D-5E0A-F62D-98A8-A422596ED61D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE19E33D-5E0A-F62D-98A8-A422596ED61D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF978308-E4CD-B30C-F278-3828E337AD28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF978308-E4CD-B30C-F278-3828E337AD28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF978308-E4CD-B30C-F278-3828E337AD28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF978308-E4CD-B30C-F278-3828E337AD28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B73ABD5-1D24-8F4A-A42B-E283B7251F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B73ABD5-1D24-8F4A-A42B-E283B7251F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B73ABD5-1D24-8F4A-A42B-E283B7251F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B73ABD5-1D24-8F4A-A42B-E283B7251F31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
